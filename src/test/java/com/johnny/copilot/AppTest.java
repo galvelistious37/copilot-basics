@@ -1,4 +1,4 @@
-package org.example;
+package com.johnny.copilot;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
